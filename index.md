@@ -1,1 +1,1 @@
-- [Assignment 1: RMarkdown Homework](deneme.html)
+- [Deneme](deneme.html)
