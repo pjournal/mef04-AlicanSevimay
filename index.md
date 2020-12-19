@@ -1,1 +1,1 @@
-- [Deneme](deneme.html)
+- [Assignment3_Diamonds](Assignment3_Diamonds.html)
